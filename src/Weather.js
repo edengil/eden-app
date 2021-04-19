@@ -44,7 +44,7 @@ class Weather extends React.Component {
                 type='text'
                 onChange={this.myChangeHandler}
             />
-            <input
+            <input id="id1"
                 type='submit'
             />
             </form>
